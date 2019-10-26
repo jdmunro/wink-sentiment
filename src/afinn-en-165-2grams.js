@@ -96,7 +96,7 @@ var afinn2Grams = {
     up: -2
   },
   post: {
-    traumatic: -2,
+    traumatic: -2
   },
   right: {
     direction: 3
@@ -132,7 +132,36 @@ var afinn2Grams = {
     established: 2,
     focused: 2,
     groomed: 2,
-    proportioned: 2,
+    proportioned: 2
+  },
+  feel: {
+    great: 3,
+    good: 3,
+    amazing: 4,
+    annoyed: -2,
+    down: -2,
+    low: -2,
+    shit: -3,
+    awful: -4,
+    grumpy: -2,
+    irritated: -2
+    undervalued: -2,
+  },
+  feeling: {
+    great: 3,
+    good: 3,
+    amazing: 4,
+    annoyed: -2,
+    down: -2,
+    low: -2,
+    shit: -3,
+    awful: -4,
+    grumpy: -2,
+    irritated: -2
+    undervalued: -2,
+  },
+  bit: {
+    better: 1,
   }
 };
 

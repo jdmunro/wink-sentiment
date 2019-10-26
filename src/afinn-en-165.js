@@ -1318,7 +1318,6 @@ var afinn = {
   fearlessness: 2,
   fearsome: -2,
   feeble: -2,
-  feeling: 1,
   felonies: -3,
   felony: -3,
   fertile: 2,
@@ -2187,8 +2186,6 @@ var afinn = {
   nervously: -2,
   nice: 3,
   nifty: 2,
-  niggas: -5,
-  nigger: -5,
   no: -1,
   noble: 2,
   noblest: 2,
@@ -2896,6 +2893,7 @@ var afinn = {
   strengthens: 2,
   strengths: 2,
   stress: -1,
+  stressful: -1,
   stressed: -2,
   stressor: -2,
   stressors: -2,
@@ -3270,7 +3268,6 @@ var afinn = {
   walkout: -2,
   walkouts: -2,
   wanker: -3,
-  want: 1,
   war: -2,
   warfare: -2,
   warm: 1,
@@ -3376,7 +3373,7 @@ var afinn = {
   yummy: 3,
   zealot: -2,
   zealots: -2,
-  zealous: 2,
+  zealous: 2
 };
 
 module.exports = afinn;
