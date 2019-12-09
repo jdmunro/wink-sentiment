@@ -145,7 +145,8 @@ var afinn2Grams = {
     awful: -4,
     grumpy: -2,
     irritated: -2,
-    undervalued: -2
+    undervalued: -2,
+    like: 0
   },
   feeling: {
     great: 3,
@@ -162,6 +163,18 @@ var afinn2Grams = {
   },
   bit: {
     better: 1
+  },
+  pretty: {
+    rough: -2,
+    down: -2,
+    good: 2,
+    nice: 2
+  },
+  super: {
+    nervous: -2
+  },
+  wound: {
+    up: -1
   }
 };
 
