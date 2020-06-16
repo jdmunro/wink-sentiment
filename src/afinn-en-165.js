@@ -2382,6 +2382,7 @@ var afinn = {
   popularity: 3,
   positive: 2,
   positively: 2,
+  positivity: 2,
   possessive: -2,
   postpone: -1,
   postponed: -1,
