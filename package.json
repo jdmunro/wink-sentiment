@@ -1,6 +1,6 @@
 {
   "name": "@happyaccident/wink-sentiment",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "description": "Accurate and fast sentiment scoring of phrases with emoticons :) & emojis 🎉",
   "keywords": [
     "AFINN",
@@ -16,7 +16,6 @@
   ],
   "main": "src/wink-sentiment.js",
   "scripts": {
-    "pretest": "npm run lint && npm run docs",
     "test": "istanbul cover _mocha ./test/",
     "coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
     "sourcedocs": "docker -i src -o ./sourcedocs --sidebar no",
