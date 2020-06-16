@@ -1,6 +1,6 @@
 {
   "name": "@happyaccident/wink-sentiment",
-  "version": "5.4.0",
+  "version": "5.4.1",
   "description": "Accurate and fast sentiment scoring of phrases with emoticons :) & emojis 🎉",
   "keywords": [
     "AFINN",
