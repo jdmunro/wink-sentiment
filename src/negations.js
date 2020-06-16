@@ -37,7 +37,6 @@ var negations = {
   isnt: true,
   wouldnt: true,
   shouldnt: true,
-  nt: true,
 };
 
 module.exports = negations;
