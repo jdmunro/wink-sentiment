@@ -37,12 +37,7 @@ var negations = {
   isnt: true,
   wouldnt: true,
   shouldnt: true,
-  "didn't": true,
-  "didn’t": true,
-  "hasn't": true,
-  "hasn’t": true,
-  "wasn't": true,
-  "wasn’t": true,
+  nt: true,
 };
 
 module.exports = negations;
