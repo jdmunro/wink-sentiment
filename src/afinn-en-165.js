@@ -3143,7 +3143,6 @@ var afinn = {
   unequal: -1,
   unequaled: 2,
   unethical: -2,
-  uneventful: -2,
   unfair: -2,
   unfavorable: -2,
   unfit: -2,
@@ -3378,7 +3377,7 @@ var afinn = {
   yummy: 3,
   zealot: -2,
   zealots: -2,
-  zealous: 2
+  zealous: 2,
 };
 
 module.exports = afinn;
